@@ -41,6 +41,8 @@
     grid-row: 1;
     padding-top: 20%;
     z-index: 6;
+    height:300px;
+    width: 490px;
 }
 .right .bottom{
     grid-column: 4 / -1;
